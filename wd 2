@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table{
+                font-family: Arial;
+                border-collapse:collapse;
+                width: 100%;
+            }
+            td,th{
+                border-1px solid black;
+                text-align:left;
+                padding:8 px;
+            }
+            tr:nth-child(even)
+            {
+            background-color:pink;
+            }
+            </style>
+            <h1> <b> silver</b></h1>
+           <h1> <i> admission</i></h1>
+        </head>
+        <body>
+            <h1>htmal table</h1>
+            <h2></imscit-a></h2>
+            <p> hi...i am student of silver persuing imscit - a ,</p>
+            <h1>the caption element</h1>
+            <table>
+                <caption>student details </caption>
+                <tr>
+                    <th>name</th>
+                    <th>contact</th>
+                    <th> course </th>
+                </tr>
+                <tr>
+                    <td>piyush</td>
+                    <td>9807654312</td>
+                    <td> imscit</td>
+                </tr>
+                <tr>
+                    <td>meet</td>
+                    <td>9807654312</td>
+                    <td> imscit</td>
+                </tr>
+                <tr>
+                    <td>ajay</td>
+                    <td>9807654312</td>
+                    <td> imscit</td>
+                </tr>
+                <tr>
+                    <td>parth</td>
+                    <td>9807654312</td>
+                    <td> imscit</td>
+                </tr>
+           </table>
+        </body>
+</html>
