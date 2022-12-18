@@ -1,0 +1,65 @@
+<html>
+ <body>
+  <table width="800" border="0" align="center" cellpadding="5">
+   <tr>
+    <td colspan="2">Basic Info<hr/></td>
+   </tr>
+   <tr>
+    <td width="50%" align="right">Full Name:</td>
+    <td>gohil piyush jigneshbhai </td>
+   </tr>
+   <tr>
+    <td align="right">Father's Name:</td>
+    <td> gohil jigneshbhai khimjibhai </td>
+   </tr>
+   <tr>
+    <td align="right">Age:</td>
+    <td>18 Years</td>
+   </tr>
+   <tr>
+    <td align="right">Date of Birth:</td>
+    <td>27<sup>th</sup> february</td>
+   </tr>
+   <tr>
+    <td align="right">Religion:</td>
+    <td>hindu</td>
+   </tr>
+   <tr>
+    <td align="right">Nationality:</td>
+    <td>Indian</td>
+   </tr>
+   <tr>
+    <td colspan="2">Contact Details<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Address:</td>
+    <td>a/11,gita park,narayan nagar</br>
+    nr.khodiyar nagar,bapu nagar</br>
+    ahhmedabad-382350 </td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Phone Number:</td>
+    <td>7874311481</td>
+   </tr>
+   <tr>
+    <td align="right">Email Address:</td>
+    <td>gohilpiyush123@gmail.com</td>
+   </tr>
+   <tr>
+    <td colspan="2">Eduction <hr/></td>
+   </tr>
+   <tr>
+    <td align="right">Language:</td>
+    <td> Hindi, Gujarati</td>
+   </tr> 
+   <tr>
+    <td align="right">Eduction:</td>
+    <td>styding in I.M.SC.IT in silver oak university</td>
+   </tr>
+   <tr>
+    <td align="right">Hobbies:</td>
+    <td> foot ball, chess, Travelling</td>
+   </tr>
+ </table>
+ </body>
+</html>
