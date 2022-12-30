@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> resume </title>
+    </head>
+    <body> 
+        <h1 align="center"><mark> resume </mark></h1>
+        <h1> NAME:</h1><h2> gohil piyush jigneshbhai </h2>
+        <h1> EMAIL ID: </h1> <h2> gohilpiyush123@gmail.com</h2>
+        <h1> contact no.:</h1> <h2> 1478523690</h2>
+        <h1> DATE OF BIRTH</h1> <h2>02/12/2005</h2>
+        <h1> ADDRESS:</h1><h2>bapunagar,ahmedabad-382350</h2>
+       
+                <u>
+                    <h1> qualification's </h1>
+                </u>
+            
+        <table border="3px" bgcolor="sky blue" hight="30%" width="30%"cellspacing="2" cellpadding="2">
+            <tr>
+                <th> board/course name</th>
+                <th>collage/school name</th>
+                <th>borad</th>
+                <th>percentage</th>
+                <th> year of passing</th>
+            </tr>
+            <tr>
+                <th> I.M.SC.IT</th>
+                <th>silver oak university</th>
+                <th>-</th>
+                <th>-</th>
+                <th>-</th>
+            </tr>
+            <tr>
+                <th>h.s.c</th>
+                <th>null</th>
+                <th>gujarat</th>
+                <th>null</th>
+                <th>2022</th>
+            </tr>
+            <tr>
+                <th>s.s.c</th>
+                <th>null</th>
+                <th>gujarat</th>
+                <th>null</th>
+                <th>2020</th>
+            </tr>
+        </table>
+        <u>
+            <h1> hobbies </h1>
+        </u>
+        <ul> 
+            <h2><li> hearing song's</li></h2>
+        </ul>
+    </body>
+</html>
